@@ -14,7 +14,7 @@ customer = {
    
 }
 print(customer.keys())
-new_key = input("Enter the a key: ")
+new_key = input("Enter a key: ")
 
 if new_key in customer:
     print("Key exist")
